@@ -25,7 +25,7 @@
           "firstName": {
             "display": [
               {
-                "name": "Full Name",
+                "name": "First Name",
                 "locale": "en"
               }
             ]
@@ -33,7 +33,7 @@
           "lastName": {
             "display": [
               {
-                "name": "Full Name",
+                "name": "Last Name",
                 "locale": "en"
               }
             ]
