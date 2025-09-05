@@ -6,13 +6,13 @@
       "credential_issuer_host": "https://${mosip.injicertify.host}/v1/certify/issuance",
       "display": [
         {
-          "name": "National Identity Department",
+          "name": "Digital ID",
           "logo": {
             "url": "https://raw.githubusercontent.com/iiitb-pilot/inji-config/sa-id-0.8.0/LOGO/SA-logo.png",
-            "alt_text": "mosip-logo"
+            "alt_text": "SA-logo"
           },
-          "title": "National Identity Department",
-          "description": "Download MOSIP National / Foundational Identity Credential",
+          "title": "Digital ID",
+          "description": "Download Digital Credential",
           "language": "en"
         },
         {
